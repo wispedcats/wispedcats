@@ -26,7 +26,7 @@
 ## 👋 Checkout my friend
 <p align="center">
   <a href="https://github.com/holyholical">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
+    <img src="https://avatars.githubusercontent.com/u/249792168?v=4" width="40" />
     <br />
     holyholical
   </a>
