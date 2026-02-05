@@ -22,3 +22,12 @@
   <img src="https://skillicons.dev/icons?i=react" width="60" height="60" title="React" />
   <img src="https://skillicons.dev/icons?i=luau" width="60" height="60" title="Luau" />
 </p>
+
+## 👋 Checkout my friend
+<p align="center">
+  <a href="https://github.com/holyholical">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" />
+    <br />
+    holyholical
+  </a>
+</p>
