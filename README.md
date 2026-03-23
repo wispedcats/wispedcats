@@ -22,10 +22,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" width="60" height="60" title="React" />
   <img src="https://skillicons.dev/icons?i=lua" width="60" height="60" title="Luau" />
+  <img src="https://skillicons.dev/icons?i=cpp" href="https://rewindthetime.github.io/cpp_baseknowledge" width="60" height="60" title="CPP" />
 </p>
 
-## 👋 Checkout my friend
-<p align="center">
-    <iframe width="500" height="400" src="https://rewindthetime.github.io/cpp_baseknowledge">
-</iframe>
-</p>
