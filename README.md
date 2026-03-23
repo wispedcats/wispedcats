@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on https://deadview.cc/
+- 🔭 I’m currently working on https://rewindthetime.github.io/cpp_baseknowledge
 - 
 ## 🧠 My actuall languages
 
@@ -14,6 +14,7 @@
   <img src="https://skillicons.dev/icons?i=css" width="60" height="60" title="CSS" />
   <img src="https://skillicons.dev/icons?i=js" width="60" height="60" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" title="SQL" />
+  <img src="https://skillicons.dev/icons?i=cp" width="60" height="60" title="C++" />
 </p>
 
 ## 🚀 Currently Learning
