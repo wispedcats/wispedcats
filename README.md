@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" width="60" height="60" title="React" />
-  <img src="https://skillicons.dev/icons?i=luau" width="60" height="60" title="Luau" />
+  <img src="https://skillicons.dev/icons?i=lua" width="60" height="60" title="Luau" />
 </p>
 
 ## 👋 Checkout my friend
