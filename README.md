@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-
 - 🔭 I’m currently working on https://rewindthetime.github.io/cpp_baseknowledge
-- 
+- 🔭 Soon im working on a vscode design update with the official vscode source!
+  ---
 ## 🧠 My actuall languages
 
 <p align="center">
