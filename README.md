@@ -26,14 +26,9 @@
 
 ## 👋 Checkout my friend
 <p align="center">
-  <a href="https://github.com/holyholical">
     <iframe
-  id="inlineFrameExample"
-  title="Inline Frame Example"
   width="500"
   height="400"
   src="https://rewindthetime.github.io/cpp_baseknowledge">
 </iframe>
-
-  </a>
 </p>
