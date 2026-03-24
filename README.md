@@ -23,6 +23,6 @@
 ## 🚀 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" href="https://rewindthetime.github.io/cpp_baseknowledge" width="60" height="60" title="CPP" />
+  <img src="https://skillicons.dev/icons?i=ts" href="https://rewindthetime.github.io/cpp_baseknowledge" width="60" height="60" title="CPP" />
 </p>
 
