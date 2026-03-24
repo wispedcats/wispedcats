@@ -23,6 +23,7 @@
 ## 🚀 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts" href="https://rewindthetime.github.io/cpp_baseknowledge" width="60" height="60" title="CPP" />
+  <img src="https://skillicons.dev/icons?i=ts" href="https://rewindthetime.github.io/cpp_baseknowledge" width="60" height="60" title="typescript" />
+  <img src="https://skillicons.dev/icons?i=tailwind" href="https://rewindthetime.github.io/cpp_baseknowledge" width="60" height="60" title="tailwindcss" />
 </p>
 
