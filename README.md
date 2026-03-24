@@ -16,13 +16,13 @@
   <img src="https://skillicons.dev/icons?i=js" width="60" height="60" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" title="SQL" />
   <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" title="C++" />
+  <img src="https://skillicons.dev/icons?i=react" width="60" height="60" title="React" />
+
 </p>
 
 ## 🚀 Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="60" height="60" title="React" />
-  <img src="https://skillicons.dev/icons?i=lua" width="60" height="60" title="Luau" />
   <img src="https://skillicons.dev/icons?i=cpp" href="https://rewindthetime.github.io/cpp_baseknowledge" width="60" height="60" title="CPP" />
 </p>
 
