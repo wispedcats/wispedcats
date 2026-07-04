@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on https://rewindthetime.github.io/cpp_baseknowledge
-- 🔭 Soon im working on a vscode design update with the official vscode source!
+- 🔭 I’m a employee in Germany!
   
   ---
 ## 🧠 My actuall languages
@@ -17,13 +16,9 @@
   <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" title="SQL" />
   <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" title="C++" />
   <img src="https://skillicons.dev/icons?i=react" width="60" height="60" title="React" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" title="tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=ts" href="https://rewindthetime.github.io/cpp_baseknowledge" width="60" height="60" title="typescript" /> 
+  
 
-</p>
-
-## 🚀 Currently Learning/Mastering
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts" href="https://rewindthetime.github.io/cpp_baseknowledge" width="60" height="60" title="typescript" />
-  <img src="https://skillicons.dev/icons?i=tailwind" href="https://rewindthetime.github.io/cpp_baseknowledge" width="60" height="60" title="tailwindcss" />
 </p>
 
