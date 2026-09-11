@@ -15,9 +15,10 @@
   <img src="https://skillicons.dev/icons?i=js" width="60" height="60" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=mysql" width="60" height="60" title="SQL" />
   <img src="https://skillicons.dev/icons?i=cpp" width="60" height="60" title="C++" />
+  <img src="https://skillicons.dev/icons?i=java" width="60" height="60" title="Java" />
   <img src="https://skillicons.dev/icons?i=react" width="60" height="60" title="React" />
   <img src="https://skillicons.dev/icons?i=tailwind" width="60" height="60" title="tailwindcss" />
-  <img src="https://skillicons.dev/icons?i=ts" href="https://rewindthetime.github.io/cpp_baseknowledge" width="60" height="60" title="typescript" /> 
+  <img src="https://skillicons.dev/icons?i=ts" href="https://rewindthetime.github.io/cpp_baseknowledge" width="60" height="60" /> 
   
 
 </p>
